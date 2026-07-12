@@ -2,7 +2,7 @@
 
 A continuously-updated, machine-classified database of AI-tool domains for network filtering, data-loss prevention, and shadow-AI governance. Every entry is a fully-qualified domain that hosts a generative-AI product â€” chatbots, code assistants, image and voice generators, autonomous agents, and the long tail of niche vertical tools that general-purpose URL filters have never heard of.
 
-**Homepage:** https://www.aitoolsblocklist.com
+**Homepage:** https://www.aitoolsblocklist.com 
 
 ---
 
