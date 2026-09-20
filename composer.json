@@ -1,0 +1,29 @@
+{
+    "name": "aitoolsblocklist/aitoolsblocklist",
+    "description": "AI Tools Blocklist: 20,000+ AI-tool domains classified into 18 categories with vendor training-on-your-data verdicts, refreshed daily",
+    "type": "library",
+    "license": "MIT",
+    "require": {},
+    "homepage": "https://www.aitoolsblocklist.com",
+    "support": {
+        "source": "https://github.com/optimiser4/aitoolsblocklist",
+        "docs": "https://www.aitoolsblocklist.com/ai-blocklist-api.php"
+    },
+    "authors": [
+        {
+            "name": "Alpha Quantum",
+            "email": "info@alpha-quantum.com",
+            "homepage": "https://www.alpha-quantum.com"
+        }
+    ],
+    "keywords": [
+        "ai blocklist",
+        "ai tools blocklist",
+        "shadow ai",
+        "generative ai",
+        "ai governance",
+        "domain classification",
+        "content filtering",
+        "web filtering"
+    ]
+}
